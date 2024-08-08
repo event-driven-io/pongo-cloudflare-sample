@@ -18,6 +18,6 @@
     "wrangler": "^3.60.3"
   },
   "dependencies": {
-    "@event-driven-io/pongo": "0.12.2"
+    "@event-driven-io/pongo": "0.12.4"
   }
 }
